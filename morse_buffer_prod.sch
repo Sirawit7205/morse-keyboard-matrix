@@ -4,7 +4,7 @@ EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
-Title "Morse keyboard"
+Title "Morse keyboard (Matrix)"
 Date "2020-09-01"
 Rev "1"
 Comp "Sleepy Pony Labs"
